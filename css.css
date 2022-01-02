@@ -1,0 +1,28 @@
+body {
+    font-family: 'montserrat', sans-serif;
+	font-weight:bold;
+    background-image: url('background.jpg');
+    background-size: cover;
+    background-position: top-center;
+    box-sizing: border-box;
+}
+.input{
+  text-align: center;
+  margin: 100px auto;
+}
+.input input[type="text"]{
+  width: 400px;
+  height: 40px;
+  padding: 5px 10px;
+  border-radius: 1px;
+  font-family: "Nunito",sans-serif;
+  font-weight:bold;
+  font-size: 20px;
+}
+input[type="submit"]{
+  padding: 10px 20px;
+  background: #e7e7e7;
+  border-radius: 1px;
+  font-weight:bold;
+  font-size: 15px;
+}
